@@ -1,0 +1,12 @@
+# Explicit path budget: 512 bytes. See README.md.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/.npm/
+**/coverage/
+**/playwright-report/
+**/test-results/
+**/.playwright-mcp/
+/test/scratch/
+!/dist/
+!/dist/**
